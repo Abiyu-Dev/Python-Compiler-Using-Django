@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. migrate
+1. clone the repository
 
 ``` bash
 git clone https://github.com/Abiyu-Dev/Python-Compiler-Using-Django.git
