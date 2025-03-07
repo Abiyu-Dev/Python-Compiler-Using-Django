@@ -34,3 +34,7 @@ python manage.py migrate
 python manage.py runserver
 
 ```
+
+# Demo
+
+![Image](https://github.com/user-attachments/assets/c189b62f-affb-47c8-b04e-d240c77dd062)
